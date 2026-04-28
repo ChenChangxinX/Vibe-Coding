@@ -39,3 +39,8 @@ https://bolt.new/~/sb1-fxbulcbe
 任务列表为空时，显示一个友好的提示
 
 https://to-do-list-web-app-fae8.bolt.host
+
+其他网站
+https://www.miaoda.cn/
+https://nocode.cn/
+
